@@ -5,7 +5,7 @@
 #
 Name     : pypi-levenshtein
 Version  : 0.21.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/c4/04/9179c510aec74ab84f3e6378526365b9fbe6d2a0d031ea178877c3bd5451/Levenshtein-0.21.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c4/04/9179c510aec74ab84f3e6378526365b9fbe6d2a0d031ea178877c3bd5451/Levenshtein-0.21.1.tar.gz
 Summary  : Python extension for computing string edit distances and similarities.
