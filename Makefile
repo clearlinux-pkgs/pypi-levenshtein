@@ -1,5 +1,5 @@
 PKG_NAME := pypi-levenshtein
-URL = https://files.pythonhosted.org/packages/c4/04/9179c510aec74ab84f3e6378526365b9fbe6d2a0d031ea178877c3bd5451/Levenshtein-0.21.1.tar.gz
+URL = https://files.pythonhosted.org/packages/d5/db/6163301400a4b2d86f6f0d05d36eab23880de047d0e41081a186519d4dfa/Levenshtein-0.23.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
